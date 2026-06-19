@@ -43,6 +43,3 @@ By promoting digital channels (UPI & NetBanking), operational efficiency can be 
 HDFC Bank’s transaction system is showing strong performance, with 75% transactions being successful. Noida, Pune, and Mumbai Central branches are contributing the
 most, while Bengaluru branch is showing comparatively lower performance. The ratio of Savings and Current account holders is balanced, and overall transaction
 volume is stable, reflecting the bank’s operational efficiency.  
----
-
-Would you like me to also make this into a **professional summary report format** (like an executive dashboard note) so it looks more polished for presentation?
